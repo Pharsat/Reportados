@@ -36,40 +36,45 @@
             app:alignItems="stretch"
             app:flexWrap="wrap">
 
-            <Button
+            <TextView
                 android:id="@+id/btnCarro"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Carro"
-                android:textSize="@dimen/text_button_smallSize" />
+                android:textSize="@dimen/text_label_cloud_size"
+                android:layout_margin="5dp" />
 
-            <Button
+            <TextView
                 android:id="@+id/btnMascota"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Bolso"
-                android:textSize="@dimen/text_button_smallSize" />
+                android:textSize="@dimen/text_label_cloud_size"
+                android:layout_margin="5dp" />
 
-            <Button
+            <TextView
                 android:id="@+id/btnAnimal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Animal"
-                android:textSize="@dimen/text_button_smallSize" />
+                android:textSize="@dimen/text_label_cloud_size"
+                android:layout_margin="5dp" />
 
-            <Button
+            <TextView
                 android:id="@+id/btnMotocicleta"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Motocicleta"
-                android:textSize="@dimen/text_button_smallSize" />
+                android:textSize="@dimen/text_label_cloud_size"
+                android:layout_margin="5dp" />
 
-            <Button
+            <TextView
                 android:id="@+id/btnAnillo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Anillo"
-                android:textSize="@dimen/text_button_smallSize" />
+                android:textSize="@dimen/text_label_cloud_size"
+                android:layout_margin="5dp" />
         </com.google.android.flexbox.FlexboxLayout>
 
 

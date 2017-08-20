@@ -68,6 +68,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/report"/>
+        android:text="@string/report"
+        android:layout_gravity="center"
+        android:onClick="accionListaReportes"/>
 
 </android.support.v7.widget.LinearLayoutCompat>
