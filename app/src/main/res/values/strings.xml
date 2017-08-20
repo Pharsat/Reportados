@@ -19,4 +19,6 @@
     <string name="desciption">Describa aquí la situación</string>
     <string name="reward">Recompenza</string>
     <string name="report">Reportar</string>
+    <string name="retype_password">Repetir Contraseña</string>
+    <string name="register">Crear</string>
 </resources>

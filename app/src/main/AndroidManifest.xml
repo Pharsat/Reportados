@@ -41,7 +41,8 @@
         <activity android:name=".vistas.ReportesCercanosPreview" />
         <activity android:name=".vistas.cositas" />
         <activity android:name=".vistas.NuevoReporte" />
-        <activity android:name=".vistas.MisReportes"></activity>
+        <activity android:name=".vistas.MisReportes" />
+        <activity android:name=".vistas.RegistroUsuario"></activity>
     </application>
 
 </manifest>
