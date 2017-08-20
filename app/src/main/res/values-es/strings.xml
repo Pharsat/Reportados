@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rdbRobo">Robo</string>
+    <string name="rdbSuceso">Suceso</string>
+    <string name="rdbAccidente">Accidente</string>
+    <string name="rdbPerdida">Perdida</string>
+    <string name="rdbAvistamiento">Avistamiento</string>
+    <string name="oject">¿Que?</string>
+    <string name="searched_words">Palaras buscadas</string>
+    <string name="add">Agregar</string>
+    <string name="info">Información</string>
+    <string name="reward">Recompenza</string>
+    <string name="report">Reportar</string>
+</resources>
